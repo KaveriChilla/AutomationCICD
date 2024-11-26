@@ -1,0 +1,9 @@
+Chilla2\resources\ExtentReporterNG.class
+chillakaveri\pageobjects\AppTest.class
+chillakaveri\pageobjects\CheckoutPage.class
+chillakaveri\pageobjects\ProductCatalog.class
+chillakaveri\pageobjects\LandingPage.class
+chillakaveri\pageobjects\Cartpage.class
+chillakaveri\pageobjects\OrderPage.class
+chillakaveri\pageobjects\confirmationPage.class
+chillakaveri\AbstractComponents\Abstracta.class
